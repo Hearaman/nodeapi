@@ -1,0 +1,14 @@
+{
+  "name": "nodejsapi-service",
+  "version": "1.0.0",
+  "description": "A simple Node.js service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  },
+  "author": "Hearaman",
+  "license": "ISC"
+}
+
